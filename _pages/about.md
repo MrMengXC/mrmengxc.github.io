@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- # MXC - AI Tools Portfolio -->
-
 Welcome to my AI tools portfolio! I specialize in developing cutting-edge AI applications that leverage state-of-the-art machine learning models to solve real-world problems. Here are some of my recent projects:
 
 ## 🎵 ThinkSound - Video to Audio Generator
