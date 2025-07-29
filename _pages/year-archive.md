@@ -7,8 +7,6 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-# Content Showcase
-
 Welcome to my content showcase! Here you'll find my latest articles, insights, and resources about AI tools and creative workflows. Each piece is carefully crafted to provide valuable information and practical tips for creators and developers.
 
 ## 📝 Latest Articles & Resources
