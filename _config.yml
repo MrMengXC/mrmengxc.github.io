@@ -11,9 +11,9 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Hello"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "MXC"
+description              : &description ""
+url                      : https://github.com/MrMengXC # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -62,14 +62,14 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
+  mastodon         : "https://mastodon.social/@mxc199"
+  medium           : "https://medium.com/@mxcdev"
+  pinterest        : "mxc"
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  tumblr           : "mxcdev1993"
+  twitter          : "mngxiocho157976"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -120,7 +120,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
