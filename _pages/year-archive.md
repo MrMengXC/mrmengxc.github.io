@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "Blog posts"
+title: "Content Showcase"
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
@@ -84,4 +84,4 @@ I focus on creating practical, actionable content that helps creators and develo
 
 ---
 
-*All content is created with the goal of helping you succeed in the AI-powered creative landscape.*
+*All content is created with the goal of helping you succeed in the AI-powered creative landscape.* 
