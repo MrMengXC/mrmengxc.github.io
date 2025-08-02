@@ -262,6 +262,15 @@ body:hover .visually-hidden button {
     color: $mastodon-color;
   }
 
+  .fa-hatena,
+  .fa-hatena-square {
+    color: $hatena-color;
+  }
+
+  .hatena-icon {
+    color: $hatena-color;
+  }
+
   .ai-orcid,
   .ai-orcid-square {
     color: $orcid-color;
@@ -271,6 +280,18 @@ body:hover .visually-hidden button {
   .fa-pinterest-p,
   .fa-pinterest-square {
     color: $pinterest-color;
+  }
+
+  .fa-patreon {
+    color: $patreon-color;
+  }
+
+  .fa-linktree {
+    color: $linktree-color;
+  }
+
+  .linktree-icon {
+    color: $linktree-color;
   }
 
   .fa-rss,
