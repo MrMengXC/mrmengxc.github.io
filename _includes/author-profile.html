@@ -135,6 +135,21 @@
       {% if author.linktree %}
         <li><a href="{{ author.linktree }}"><i class="fas fa-fw fa-link icon-pad-right linktree-icon" aria-hidden="true"></i>Linktree</a></li>
       {% endif %}
+      {% if author.biosite %}
+        <li><a href="{{ author.biosite }}"><i class="fas fa-fw fa-id-card icon-pad-right biosite-icon" aria-hidden="true"></i>bio.site</a></li>
+      {% endif %}
+      {% if author.folllio %}
+        <li><a href="{{ author.folllio }}"><i class="fas fa-fw fa-briefcase icon-pad-right folllio-icon" aria-hidden="true"></i>Folllio</a></li>
+      {% endif %}
+      {% if author.taplink %}
+        <li><a href="{{ author.taplink }}"><i class="fas fa-fw fa-link icon-pad-right taplink-icon" aria-hidden="true"></i>Taplink</a></li>
+      {% endif %}
+      {% if author.bento %}
+        <li><a href="{{ author.bento }}"><i class="fas fa-fw fa-box icon-pad-right bento-icon" aria-hidden="true"></i>Bento</a></li>
+      {% endif %}
+      {% if author.ramen %}
+        <li><a href="{{ author.ramen }}"><i class="fas fa-fw fa-utensils icon-pad-right ramen-icon" aria-hidden="true"></i>Ramen</a></li>
+      {% endif %}
       {% if author.pinterest %}
         <li><a href="https://www.pinterest.com/{{ author.pinterest }}"><i class="fab fa-fw fa-pinterest icon-pad-right" aria-hidden="true"></i>Pinterest</a></li>
       {% endif %}            
