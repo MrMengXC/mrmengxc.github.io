@@ -22,7 +22,8 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-    
+  - title: "Frend Ship"
+    url: /frend-ship/
   # - title: "CV"
   #   url: /cv/
     
